@@ -4,7 +4,7 @@
 
 * Tree :toc:
 ** Chill
-*** MUSIC[[Music][/PLAYLIST.org]]
+*** [[/PLAYLIST.org][MUSIC]]
 **** Classical
 **** Volk Music
 **** Old Pop
@@ -12,8 +12,8 @@
 **** "MEME" historical
 **** Modern shit
 **** Stuff like Rammstein
-*** [[Movies]/WATCHLIST.org]
+*** [[/WATCHLIST.org][MOVIES]]
 **** Did not even touched yet. lol
 ** Linux
-*** [[Distro(s)]/DISTROS.org]
+*** [[/DISTROS.org][Distro(s)]]
 **** Arch (based😎) 😎
