@@ -1,0 +1,19 @@
+#+TITLE: Index from all the files here
+#+AUTHOR: SlimTux
+#+PROPERTY: header-args :tangle README.md
+
+* Tree :toc:
+** Chill
+*** [[Music]/PLAYLIST.org]
+**** Classical
+**** Volk Music
+**** Old Pop
+**** DDR & Soviet
+**** "MEME" historical
+**** Modern shit
+**** Stuff like Rammstein
+*** [[Movies]/WATCHLIST.org]
+**** Did not even touched yet. lol
+** Linux
+*** [[Distro(s)]/DISTROS.org]
+**** Arch (based😎) 😎
