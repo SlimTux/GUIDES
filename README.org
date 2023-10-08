@@ -14,6 +14,9 @@
 **** Stuff like Rammstein
 *** [[/WATCHLIST.org][MOVIES]]
 **** Did not even touched yet. lol
-** Linux
+** [[/linux][Linux]]
 *** [[/DISTROS.org][Distro(s)]]
-**** Arch (based😎) 😎
+**** [[/linux/INSTALATION.org][Arch (based😎) 😎]]
+*** [[/linux/KERNEL.org][Kernel]]
+*** [[/linux/X.org][X(org)]]
+*** [[/linux/NETWORKING.org][Networking]]
