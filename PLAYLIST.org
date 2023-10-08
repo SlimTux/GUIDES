@@ -10,7 +10,7 @@ I clone(stealed) the template from mayfrost
 
 ***
 
-
+#+begin_src markdown
 ** CINEMATIC
 [Applauzium - Skies Darken](https://www.youtube.com/watch?v=3TR9OuAZifw)  
 [Audiomachine - Ascendance](https://www.youtube.com/watch?v=ViJFUflaZwc)  
@@ -62,7 +62,10 @@ I clone(stealed) the template from mayfrost
 [Umineko Chiru - The Sin](https://www.youtube.com/watch?v=QSAcfUz17EQ)  
 [Aleksandar Dimitrijevic - Luminous and Unstoppable](https://www.youtube.com/watch?v=I9MqQoICT1w)  
 [Remy Zero - Save me](https://www.youtube.com/watch?v=j5GWYV8BZDI)  
+#+end_src
 
+
+#+begin_src markdown
 ** CLASSIC GAMES
 [Michiel van den Bos - Unreal Tournament - Razorback](https://www.youtube.com/watch?v=PLgSo90JhAQ)  
 [Michiel van den Bos - Unreal Tournament - Foregone Destruction (aka Facing Worlds Theme)](https://www.youtube.com/watch?v=hux23AXNccE)  
@@ -102,7 +105,10 @@ I clone(stealed) the template from mayfrost
 [Donkey Kong Country 2 - Mining Melancholy](https://www.youtube.com/watch?v=4Qp0_NE8M1c)  
 [Donkey Kong Country 2 - Disco Train](https://www.youtube.com/watch?v=yUGU_Zlf9tU)  
 [Donkey Kong Country 2 - Enchanted Wood](https://www.youtube.com/watch?v=hRR47I88RJ8)  
+#+end_src
 
+
+#+begin_src markdown
 ** DEMOSCENE
 [TRIAD 2017 NEON (C64)](https://www.youtube.com/watch?v=ZazU4H2OZFg)  
 [Reflex - Mathematica | C64 demo, Full HD 50 fps, Real SID](https://www.youtube.com/watch?v=wAZ5Nk_ShGU)  
@@ -110,7 +116,10 @@ I clone(stealed) the template from mayfrost
 [Censor Design & Oxyron - Comaland 100% - C64 Demo (50 FPS)](https://www.youtube.com/watch?v=DzQVECn3tY8)  
 ["Unreal Super Hero 3" by Kenet & Rez](https://www.youtube.com/watch?v=9STiQ8cCIo0)  
 [Milkytracker Chiptune](https://www.youtube.com/watch?v=OvQOLJsF10s)  
+#+end_src
 
+
+#+begin_src markdown
 ** ELECTRONICA
 [Justice - AUDIO, VIDEO, DISCO](https://www.youtube.com/watch?v=lqBhgEQ4LT0)  
 [Justice - New Lands](https://www.youtube.com/watch?v=Gxu248aD6PY)  
@@ -167,7 +176,10 @@ I clone(stealed) the template from mayfrost
 [ultraísta- our song](https://www.youtube.com/watch?v=psjnWgaM3O4)  
 [ultraísta- gold dayzz](https://www.youtube.com/watch?v=4EvKmU_mZnA)  
 [ultraísta- wash it over](https://www.youtube.com/watch?v=A1SqXNbylKM)  
+#+end_src
 
+
+#+begin_src markdown
 ## INDUSTRIAL
 [Solitary Experiments - The Dark Inside Me](https://www.youtube.com/watch?v=6IKukIEwG04)  
 [Angels and Agony - Forever](https://www.youtube.com/watch?v=fGjUjXLcIEA)  
@@ -180,7 +192,10 @@ I clone(stealed) the template from mayfrost
 [Infinite Dimensions - Zion](https://www.youtube.com/watch?v=hMx4ylvj9Ok)  
 [yelworC - World Under Fire](https://www.youtube.com/watch?v=SDaceL5kEK8)  
 [Alien Vampires - She Owns The Nite (Lilith)](https://www.youtube.com/watch?v=W6GDwYADRCU)  
+#+end_src
 
+
+#+begin_src markdown
 ## METAL
 [DIE ANTWOORD - BABY'S ON FIRE](https://www.youtube.com/watch?v=HcXNPI-IPPM)  
 [Die Antwoord - Enter The Ninja](https://www.youtube.com/watch?v=cegdR0GiJl4)  
@@ -230,7 +245,10 @@ I clone(stealed) the template from mayfrost
 [Buckethead - Night Of The Slunk](https://www.youtube.com/watch?v=QfeMOhaJ6Yo)  
 [Little V - Cyberpunk 2077 EPIC METAL COVER](https://www.youtube.com/watch?v=dzJeQBp4v2U)  
 [Toto - Africa (metal cover by Leo Moracchioli feat. Rabea & Hannah)](https://www.youtube.com/watch?v=MH9FyLsfDzw)  
+#+end_src
 
+
+#+begin_src markdown
 ## POP
 [Bastille - Pompeii](https://www.youtube.com/watch?v=F90Cw4l-8NY)  
 [Bruno Mars - Treasure](https://www.youtube.com/watch?v=nPvuNsRccVw)  
@@ -295,7 +313,10 @@ I clone(stealed) the template from mayfrost
 [Ichiban Ushiro no Daimaou Opening](https://www.youtube.com/watch?v=Oiqc0q7tMqY)  
 [Leningrad ft. Gluk’oZа (ft. ST) - Ju-Ju](https://www.youtube.com/watch?v=a-GQDCtt1Vk)  
 [G Force: guardians of space (opening theme COVER by ERGO)](https://www.youtube.com/watch?v=4T3PF27lSvQ)  
+#+end_src
 
+
+#+begin_src markdown
 ## PROGRESSIVE SYNTH
 [Aphex Twin - Windowlicker](https://www.youtube.com/watch?v=yyw9Sa-EUpQ)  
 [Aucan - Red Minoga](https://www.youtube.com/watch?v=ia_YfhbfXGM)  
@@ -323,7 +344,10 @@ I clone(stealed) the template from mayfrost
 [Visck x Obscure - Distortion ( Dark Trap Beat )](https://www.youtube.com/watch?v=8LnG6euN4Vg)  
 [Hyper - Spoiler﻿](https://www.youtube.com/watch?v=TaZjsrWo10Y)  
 [Strictures - Digitorium](https://www.youtube.com/watch?v=zaphlzlVBKs)  
+#+end_src
 
+
+#+begin_src markdown
 ## PUNK ROCK
 [Atari Teenage Riot - "Revolution Action"](https://www.youtube.com/watch?v=i8JBUktSxvQ)  
 [Atari Teenage Riot - Too Dead For Me](https://www.youtube.com/watch?v=0oxBRNw4bP0)  
@@ -395,7 +419,9 @@ I clone(stealed) the template from mayfrost
 [Pitch shifter - Genius](https://www.youtube.com/watch?v=cC1ps3nrByk)  
 [Tool - Right in Two](https://www.youtube.com/watch?v=fj-10lIrboM)  
 [Greta Van Fleet - When The Curtain Falls](https://www.youtube.com/watch?v=86_vnQc1oBE)  
+#+end_src
 
+#+begin_src markdown
 ## SYNTHWAVE
 [† Carpenter Brut † TURBO KILLER](https://www.youtube.com/watch?v=er416Ad3R1g)  
 [Carpenter Brut - Turbo Killer](https://www.youtube.com/watch?v=wy9r2qeouiQ)  
@@ -457,4 +483,5 @@ I clone(stealed) the template from mayfrost
 [Meg & Dia - Monster (DotEXE Dubstep Remix)](https://www.youtube.com/watch?v=-0oZNWif_jk)  
 [Carpenter Brut - Roller Mobster](https://www.youtube.com/watch?v=qFfybn_W8Ak)  
 [REZZ - Edge](https://www.youtube.com/watch?v=2oIAQSUt9mo)  
-[Fiona Apple - pure imagination (Kenny grey edit/remix)](https://www.youtube.com/watch?v=wdT_rIba7PU)  
+[Fiona Apple - pure imagination (Kenny grey edit/remix)](https://www.youtube.com/watch?v=wdT_rIba7PU)
+#+end_src
