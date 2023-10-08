@@ -1,6 +1,7 @@
 #+TITLE: Kernel (Do a backup before)
 #+AUTHOR: SlimTux
 * Table of contents :toc:
+:toc:
 ** Kernel
 
 Compiling a kernel has the advantage to make it as minimal and featureful as you want, you can test kernel patches and tweaks and optimize your system.
