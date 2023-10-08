@@ -16,7 +16,7 @@
 **** Did not even touched yet. lol
 ** [[/linux][Linux]]
 *** [[/DISTROS.org][Distro(s)]]
-**** [[/linux/INSTALATION.org][Arch (based😎) 😎]]
+**** [[/linux/INSTALLATION.org][Arch (based😎) 😎]]
 *** [[/linux/KERNEL.org][Kernel]]
 *** [[/linux/X.org][X(org)]]
 *** [[/linux/NETWORKING.org][Networking]]
