@@ -4,7 +4,7 @@
 
 * Tree :toc:
 ** Chill
-*** [[Music]/PLAYLIST.org]
+*** MUSIC[[Music][/PLAYLIST.org]]
 **** Classical
 **** Volk Music
 **** Old Pop
