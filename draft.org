@@ -1,0 +1,70 @@
+#+TITLE: MAI-draft's transcript
+#+SUBTITLE: "How many lemons are necessary to lid a lightbulb?"
+#+AUTHOR: Castro, Henrique
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [letterpaper]
+#+OPTIONS: toc:nil
+#+DATE:
+#+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+* Introduction
+I choose this topic because a popular quote has always intrigued me "If life give you lemons, do a lemonade.", and also an internet experiment to power up a graphical calculator to play an old game [[https://www.pcgamer.com/heres-doom-running-on-100-pounds-of-moldy-potatoes/]["Using 100 pound of mold potatoes to run 'DOOM' (Video-game) in a graphical calculator"]]
+ The reason I choose to use lemons and not other food, it is because lemons
+are citric fruits. This type of food tend to output more energy than the average fruit. A popular choice to extract energy from food is the potato. I did not choose the potato because in my own opinion a lemon would be more inovative(There is a lot of experiences using potatoes, but few with lemons).
+
+  Some issues I may find in my way, is to plot the experience's results
+into GNUPLOT(The tool I choose to plot my data). Another issue I may find along my research it is the lemon's selection; The ideal lemon to lid the lightbulb
+ Will a smaller lemon output more or less energy(It could provide more energy
+than a bigger lemon, because the small one is more concentrated. But it could also just have less citric acid overall) to lid the lightbulb?
+ How many lemons will it take for the first light to come out of the lightbulb?
+
+ Thanks to my school's laboratory, I have all the necessary materials to (I hope) for a sucessful experiment.
+
+
+* Materials
+** Base
+*** Lemon(s)
+**** One Small and green
+**** Standard green lemon
+**** Standard yellow lemon
+***** A standard lemon is
+*** Lightbulb
+** Laboratory
+*** [[file:multimeter.jpg][Voltimeter/Multimeter]]
+**** Measure the lemon's energy output
+*** Alligator Clip
+*** Wire + Galvanized nail
+** Software
+*** [[https://pranabdas.github.io/linux/gnuplot/][Gnuplot]] or "R-language"
+
+* Approach
+The mahtematical approach I choose is to graph the lemon's energy output over the time it takes (and remains) for the the light to stay on.
+#+CAPTION: Lemon's energy output over time (Charging the bulb)
+#+NAME:   fig:SED-HR4049
+#+attr_html: :width 300px :height 270px
+[[file:MAI-graph-lemon-standard.png]]
+
+#+begin_src latex
+\begin{document}
+\[P=\frac{ΔE}{ΔT}\quad \textrm{and}\quad \textstyle M=\frac{ΔE}{ΔT}\quad \textrm\]
+\end{document}
+#+end_src
+
+  I will also measure the lemon's voltage over time and the lemon's amperage.
+ With the obtained data I will be able to do the mean of 5 lemons and their energy output against time.
+
+ Considering the following formulae
+
+ #+begin_src latex
+\begin{document}
+\[P=\frac{U}{I}\quad \textrm{and}\quad \textstyle P(T)=\U(T)\I(T)\quad \textrm\]
+\end{document}
+#+end_src
+
+* Considerations
+[[https://blog.directenergy.com/back-to-school-beginner-science-experiments-electricity-part-1/][The average lemon output is .9 volts at .00024 amps — or about .000216 watt. It takes about four or five lemons to power a single red LED (1.5 volts).]]
+
+* Experience
+** Graph(s)
+
+* A
