@@ -6,3 +6,13 @@
 cd batsignal
 cp batsignal.service /etc/systemd/system
 #+end_example
+
+#+begin_example
+sudo systemctl daemon-reload
+ * Auto-start the service (On every boot)
+sudo systemctl enable batsignal.service
+ * Start the service now (In this session)
+sudo systemctl start  batsignal.service
+ * Check if it is all good
+sudo systemctl status batsignal.service
+#+end_example
