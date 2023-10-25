@@ -2,7 +2,7 @@
 #+SUBTITLE: My battery's notification configuration
 
 * System-wide configuration (Systemd service)
------
+#+begin_example
 cd batsignal
 cp batsignal.service /etc/systemd/system
------
+#+end_example
