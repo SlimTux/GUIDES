@@ -2,6 +2,8 @@
 #+AUTHOR: SlimTux
 * Table of contents :toc:
 :toc:
+  - [[#kernel][Kernel]]
+
 ** Kernel
 
 Compiling a kernel has the advantage to make it as minimal and featureful as you want, you can test kernel patches and tweaks and optimize your system.
@@ -10,8 +12,6 @@ Compiling a kernel has the advantage to make it as minimal and featureful as you
 *** Have a distro in a Live CD or USB at hand just in case.
 
 #+begin_src markdown
----
-
 ## TOC
 1. [PREPARATIONS (OPTIONAL)](#preparations-optional)  
 2. [GETTING THE KERNEL SOURCE](#getting-the-kernel-source)  
@@ -35,10 +35,10 @@ Compiling a kernel has the advantage to make it as minimal and featureful as you
 8. [DRIVERS](#drives)  
 
 #+end_src
+
 #+begin_src markdown
 ## PREPARATIONS (OPTIONAL)
 In this optional step you can take note what kernel modules are appropriate to turn on only the options you want and have a trimmed down kernel.
-
 #+end_src
 
 #+begin_src markdown

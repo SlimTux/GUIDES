@@ -1,4 +1,4 @@
-# X
+#+begin_src markdown
 Set __X__ and a desktop environment fast.
 
 1. [INSTALLING X](#installing-x)  
@@ -445,7 +445,6 @@ Productive, automated, scriptable, and minimal, __Ratpoison__ is a strict tiling
 `Ctrl-t + Alt-Tab`  
 * Make a window the only one visible:  
 `Ctrl-t + Q`  
-
 ### RATPOISONRC CONFIGURATION FILE
 The next custom _".ratpoisonrc"_ file goes under your home directory and can be customized to your needs. It adds several goodies through scripts like an expose-like effect showing all windows on the screen arranged in a mozaic which you can choose by pressing the number from its tag:
 ```
@@ -509,3 +508,4 @@ exec rpws init 4 -k
 # get rid of the one pixel border around windows
 set border 0
 ```
+#+end_src
